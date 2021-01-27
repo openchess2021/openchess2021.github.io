@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-feed
 theme: jekyll-theme-cayman
 title: OpenChess 2021
 description: Web de noticias del torneo OpenChess 2021
